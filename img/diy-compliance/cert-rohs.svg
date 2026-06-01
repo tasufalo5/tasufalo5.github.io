@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="267" viewBox="0 0 200 267" role="img" aria-label="RoHS certificate placeholder">
+  <rect fill="#fafafa" width="200" height="267"/>
+  <rect fill="none" stroke="#0052CC" stroke-width="1.5" x="10" y="14" width="180" height="239" rx="2"/>
+  <line x1="24" y1="40" x2="176" y2="40" stroke="#0052CC" stroke-width="0.75" opacity="0.35"/>
+  <line x1="24" y1="52" x2="140" y2="52" stroke="#94a3b8" stroke-width="0.5"/>
+  <line x1="24" y1="60" x2="160" y2="60" stroke="#94a3b8" stroke-width="0.5"/>
+  <line x1="24" y1="68" x2="150" y2="68" stroke="#94a3b8" stroke-width="0.5"/>
+  <text x="100" y="112" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="700" fill="#0f172a">RoHS</text>
+  <text x="100" y="136" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="9" fill="#64748b">COMPLIANCE · PLACEHOLDER</text>
+  <circle cx="148" cy="208" r="20" fill="none" stroke="#27AE60" stroke-width="1.75"/>
+  <text x="148" y="212" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="8" fill="#27AE60">OK</text>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Commercial Retrofit on SWITNEX</title><link>https://www.switnex.com/tags/commercial-retrofit/</link><description>Recent content in Commercial Retrofit on SWITNEX</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.switnex.com/tags/commercial-retrofit/index.xml" rel="self" type="application/rss+xml"/><item><title>Field notes: RF behavior in dense walls and service cores</title><link>https://www.switnex.com/switnex-university/wireless-penetration-field-notes/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.switnex.com/switnex-university/wireless-penetration-field-notes/</guid><description>&lt;h2 id="method-briefly"&gt;Method, briefly&lt;a class="td-heading-self-link" href="#method-briefly" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We treat every site as &lt;strong&gt;three layers&lt;/strong&gt;: air path, structural attenuators, and RF noise from neighboring gear. Floor plans rarely capture all three.&lt;/p&gt;
+&lt;h2 id="what-consistently-matters"&gt;What consistently matters&lt;a class="td-heading-self-link" href="#what-consistently-matters" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Orientation of service cores relative to where buttons need to live.&lt;/li&gt;
+&lt;li&gt;Presence of metal-clad risers or mirrored lift walls.&lt;/li&gt;
+&lt;li&gt;Legacy 433/868/915 activity from older security or gate gear.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="commissioning-takeaway"&gt;Commissioning takeaway&lt;a class="td-heading-self-link" href="#commissioning-takeaway" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Start with &lt;strong&gt;worst-path buttons&lt;/strong&gt; during daylight hours, then validate after-hours when noise floors shift. Document the handset used and firmware revision—future-you will thank present-you.&lt;/p&gt;</description></item><item><title>Multifamily retrofits: cutting electrician trips without freezing innovation</title><link>https://www.switnex.com/switnex-university/multifamily-electrician-maintenance-strategy/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.switnex.com/switnex-university/multifamily-electrician-maintenance-strategy/</guid><description>&lt;h2 id="why-maintenance-teams-care-about-modularity"&gt;Why maintenance teams care about modularity&lt;a class="td-heading-self-link" href="#why-maintenance-teams-care-about-modularity" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When every unit is a &lt;strong&gt;snowflake&lt;/strong&gt;, triage slows down. Modular surface hardware plus documented scenes means night staff can reset behavior without waiting on a specialist slot.&lt;/p&gt;
+&lt;h2 id="playbook-ideas"&gt;Playbook ideas&lt;a class="td-heading-self-link" href="#playbook-ideas" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Standard &lt;strong&gt;three-scene map&lt;/strong&gt; per unit type (common path, sleep, away).&lt;/li&gt;
+&lt;li&gt;Spares kit matched to the SKUs you actually deploy.&lt;/li&gt;
+&lt;li&gt;Photo SOP pinned next to the electrical closet—not buried in email.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="roi-you-can-defend"&gt;ROI you can defend&lt;a class="td-heading-self-link" href="#roi-you-can-defend" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Compare &lt;strong&gt;truck rolls avoided&lt;/strong&gt;, &lt;strong&gt;mean time to restore&lt;/strong&gt;, and &lt;strong&gt;tenant complaint volume&lt;/strong&gt; quarter over quarter—not headline gadget cost.&lt;/p&gt;</description></item><item><title>The 15-minute path to a smarter guest experience (without a wall tear-out)</title><link>https://www.switnex.com/switnex-university/airbnb-15-minute-surface-upgrade-roi/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.switnex.com/switnex-university/airbnb-15-minute-surface-upgrade-roi/</guid><description>&lt;h2 id="the-hidden-cost-isnt-hardwareits-variance"&gt;The hidden cost isn’t hardware—it’s variance&lt;a class="td-heading-self-link" href="#the-hidden-cost-isnt-hardwareits-variance" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hosts lose money when every checkout introduces a &lt;strong&gt;new puzzle&lt;/strong&gt;: different switches, different instructions, different support calls. A standardized surface path turns “special case” into &lt;strong&gt;playbook&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="what-to-standardize-first"&gt;What to standardize first&lt;a class="td-heading-self-link" href="#what-to-standardize-first" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Checkout lighting scenes that don’t depend on guest memory.&lt;/li&gt;
+&lt;li&gt;One mounting pattern your cleaner can recognize.&lt;/li&gt;
+&lt;li&gt;A single commissioning checklist stored with the listing SOP.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="talking-to-finance"&gt;Talking to finance&lt;a class="td-heading-self-link" href="#talking-to-finance" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Frame the upgrade as &lt;strong&gt;reduced exception handling&lt;/strong&gt;: fewer electrician dispatches, fewer damage disputes, faster re-list readiness—not gadget novelty.&lt;/p&gt;</description></item></channel></rss>
