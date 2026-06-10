@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fulfillment on Tendlyn</title>
+    <link>http://localhost:1313/tags/fulfillment/</link>
+    <description>Recent content in Fulfillment on Tendlyn</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fulfillment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shopify to China warehouse — a 48-hour fulfillment setup guide</title>
+      <link>http://localhost:1313/insights/shopify-fulfillment-setup/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/shopify-fulfillment-setup/</guid>
+      <description>&lt;p&gt;Connecting your Shopify or WooCommerce store to a China-based 3PL should not mean CSV exports and WeChat screenshots. Tendlyn&amp;rsquo;s &lt;strong&gt;automated fulfillment stack&lt;/strong&gt; pushes orders, pulls tracking, and keeps customers informed—without manual ops.&lt;/p&gt;&#xA;&lt;h2 id=&#34;integration-checklist&#34;&gt;Integration checklist&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#integration-checklist&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Store connection&lt;/strong&gt; — OAuth or webhook for order create/cancel events.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SKU mapping&lt;/strong&gt; — align storefront variants to warehouse bin IDs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inventory sync&lt;/strong&gt; — available-to-promise counts feed back to your catalog.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lane rules&lt;/strong&gt; — EU vs. US service levels and carrier selection per SKU weight class.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tracking webhooks&lt;/strong&gt; — carrier events flow back to Shopify/Woo notification emails.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;the-2448-hour-dispatch-target&#34;&gt;The 24–48 hour dispatch target&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#the-2448-hour-dispatch-target&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Orders received before the daily cut-off enter &lt;strong&gt;pick-pack-ship&lt;/strong&gt; the same or next business day, depending on kitting complexity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

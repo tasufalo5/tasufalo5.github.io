@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AQL on Tendlyn</title>
+    <link>http://localhost:1313/tags/aql/</link>
+    <description>Recent content in AQL on Tendlyn</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AQL sampling explained for D2C brand owners</title>
+      <link>http://localhost:1313/insights/aql-sampling-explained/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/aql-sampling-explained/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Acceptable Quality Limit (AQL)&lt;/strong&gt; is the statistical backbone of most pre-shipment inspections.&#xA;It balances cost and coverage—so you are not paying to inspect every unit on a 10,000-piece order.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-aql-works-in-plain-language&#34;&gt;How AQL works in plain language&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-aql-works-in-plain-language&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Inspectors pull a &lt;strong&gt;random sample&lt;/strong&gt; based on order size and inspect against your defect&#xA;criteria. If defects exceed the agreed limit, the batch fails—full stop.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Inspection level&lt;/th&gt;&#xA;          &lt;th&gt;Best for&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;General II (default)&lt;/td&gt;&#xA;          &lt;td&gt;Most consumer D2C SKUs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;General III&lt;/td&gt;&#xA;          &lt;td&gt;Higher-risk electronics or safety items&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;100% inspection&lt;/td&gt;&#xA;          &lt;td&gt;Low volume, high ticket, or new factory relationship&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;setting-your-defect-matrix&#34;&gt;Setting your defect matrix&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#setting-your-defect-matrix&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Work with your QC partner to define:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

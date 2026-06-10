@@ -94,7 +94,7 @@
 
     var subject = encodeURIComponent(cfg.subject || 'Contractor Project Inquiry');
     var body = encodeURIComponent(lines.join('\n'));
-    var to = cfg.email_to || 'switnex@icloud.com';
+    var to = cfg.email_to || 'linktrol@icloud.com';
     window.location.href = 'mailto:' + to + '?subject=' + subject + '&body=' + body;
 
     showAlert(cfg.success_text || 'Your default email app has been opened.');

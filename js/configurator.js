@@ -774,7 +774,7 @@
         return;
       }
 
-      var emailTo = CHECKOUT.email_to || 'switnex@icloud.com';
+      var emailTo = CHECKOUT.email_to || 'linktrol@icloud.com';
       var subjectEnc = encodeURIComponent(subject);
       var bodyEnc = encodeURIComponent(bodyText);
       window.location.href =
