@@ -1,68 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tendlyn University · Supply Chain Guides on Tendlyn</title>
-    <link>http://localhost:1313/insights/</link>
-    <description>Recent content in Tendlyn University · Supply Chain Guides on Tendlyn</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/insights/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Packaging design brief — what to send your 3PL before production</title>
-      <link>http://localhost:1313/insights/packaging-design-brief/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/packaging-design-brief/</guid>
-      <description>&lt;p&gt;A beautiful unboxing mockup in Figma means nothing if the warehouse receives &lt;strong&gt;low-res logos&#xA;and no dielines&lt;/strong&gt;. Here is the minimum &lt;strong&gt;packaging design brief&lt;/strong&gt; Tendlyn needs to kit&#xA;correctly on day one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;assets-checklist&#34;&gt;Assets checklist&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#assets-checklist&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vector logo&lt;/strong&gt; (SVG/AI/PDF)—not a screenshot from your Shopify theme&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mailer/box dielines&lt;/strong&gt; with bleed and panel labels&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Color specs&lt;/strong&gt; (Pantone or CMYK) for tissue, tape, and cards&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Insert copy&lt;/strong&gt;—thank-you card, warranty, QR to review page&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kitting map&lt;/strong&gt;—which SKU gets which insert in multi-item orders&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;unboxing-sequence&#34;&gt;Unboxing sequence&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#unboxing-sequence&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Document the &lt;strong&gt;order of operations&lt;/strong&gt;: product wrap → tissue → card → sticker seal. Warehouses&#xA;default to fastest pick path unless you specify brand sequence.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Landed cost math every China buyer should run before signing a PO</title>
-      <link>http://localhost:1313/insights/landed-cost-math/</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/landed-cost-math/</guid>
-      <description>&lt;p&gt;The factory sent a quote that looks &lt;strong&gt;40% below your current supplier. Before you celebrate,&#xA;run landed cost math&lt;/strong&gt;—or you will discover the gap in QC rework, air freight panic, and&#xA;chargebacks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-formula-simplified&#34;&gt;The formula (simplified)&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#the-formula-simplified&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Landed cost per unit ≈&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;(Factory unit price + QC + packaging + inland China logistics + international freight + duties/taxes + defect reserve) ÷ sellable units&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;line-items-buyers-forget&#34;&gt;Line items buyers forget&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#line-items-buyers-forget&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Cost bucket&lt;/th&gt;&#xA;          &lt;th&gt;Why it matters&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;MOQ overbuy&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;3,000 units when you sell 200/month ties up cash for 15 months&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;PSI &amp;amp; rework&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cheap units that fail inspection still cost handling time&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Branded packaging&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Mailers and inserts are marketing—not optional for D2C&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Last-mile speed&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Air freight fixes a late factory but kills margin&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Defect reserve&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Plan 1–3% write-off even with good QC&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;how-tendlyn-uses-this-in-sourcing&#34;&gt;How Tendlyn uses this in sourcing&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-tendlyn-uses-this-in-sourcing&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We quote &lt;strong&gt;delivered-to-warehouse or DDP-style scenarios&lt;/strong&gt; when clients share target markets—so&#xA;you compare suppliers on outcome, not factory FOB alone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AQL sampling explained for D2C brand owners</title>
-      <link>http://localhost:1313/insights/aql-sampling-explained/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/aql-sampling-explained/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Acceptable Quality Limit (AQL)&lt;/strong&gt; is the statistical backbone of most pre-shipment inspections.&#xA;It balances cost and coverage—so you are not paying to inspect every unit on a 10,000-piece order.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-aql-works-in-plain-language&#34;&gt;How AQL works in plain language&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-aql-works-in-plain-language&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Inspectors pull a &lt;strong&gt;random sample&lt;/strong&gt; based on order size and inspect against your defect&#xA;criteria. If defects exceed the agreed limit, the batch fails—full stop.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Inspection level&lt;/th&gt;&#xA;          &lt;th&gt;Best for&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;General II (default)&lt;/td&gt;&#xA;          &lt;td&gt;Most consumer D2C SKUs&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;General III&lt;/td&gt;&#xA;          &lt;td&gt;Higher-risk electronics or safety items&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;100% inspection&lt;/td&gt;&#xA;          &lt;td&gt;Low volume, high ticket, or new factory relationship&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;setting-your-defect-matrix&#34;&gt;Setting your defect matrix&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#setting-your-defect-matrix&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Work with your QC partner to define:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to spot a trading company posing as a factory</title>
-      <link>http://localhost:1313/insights/spot-trading-companies/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/spot-trading-companies/</guid>
-      <description>&lt;p&gt;Trading companies are not always malicious— but when they &lt;strong&gt;pose as manufacturers&lt;/strong&gt;, you pay&#xA;middleman margins and lose control of production timing, QC, and export documentation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;five-red-flags-before-you-wire-a-deposit&#34;&gt;Five red flags before you wire a deposit&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#five-red-flags-before-you-wire-a-deposit&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;No production floor in video calls&lt;/strong&gt; — only showrooms or sample rooms.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Business license category&lt;/strong&gt; does not include manufacturing scope.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MOQ flexibility that is too good&lt;/strong&gt; — real factories have line minimums.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Refusal of third-party audit&lt;/strong&gt; or &amp;ldquo;audit not allowed during peak season.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Export history&lt;/strong&gt; that cannot be verified with reference buyers.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-a-real-audit-reveals&#34;&gt;What a real audit reveals&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-a-real-audit-reveals&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Tendlyn auditors photograph &lt;strong&gt;production lines, QC stations, raw material storage, and export&#xA;packing areas&lt;/strong&gt;—not staged sample rooms. We cross-check license data against the entity on the&#xA;contract and the bank account receiving your deposit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shopify to China warehouse — a 48-hour fulfillment setup guide</title>
-      <link>http://localhost:1313/insights/shopify-fulfillment-setup/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/shopify-fulfillment-setup/</guid>
-      <description>&lt;p&gt;Connecting your Shopify or WooCommerce store to a China-based 3PL should not mean CSV exports and WeChat screenshots. Tendlyn&amp;rsquo;s &lt;strong&gt;automated fulfillment stack&lt;/strong&gt; pushes orders, pulls tracking, and keeps customers informed—without manual ops.&lt;/p&gt;&#xA;&lt;h2 id=&#34;integration-checklist&#34;&gt;Integration checklist&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#integration-checklist&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Store connection&lt;/strong&gt; — OAuth or webhook for order create/cancel events.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SKU mapping&lt;/strong&gt; — align storefront variants to warehouse bin IDs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inventory sync&lt;/strong&gt; — available-to-promise counts feed back to your catalog.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lane rules&lt;/strong&gt; — EU vs. US service levels and carrier selection per SKU weight class.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tracking webhooks&lt;/strong&gt; — carrier events flow back to Shopify/Woo notification emails.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;the-2448-hour-dispatch-target&#34;&gt;The 24–48 hour dispatch target&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#the-2448-hour-dispatch-target&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Orders received before the daily cut-off enter &lt;strong&gt;pick-pack-ship&lt;/strong&gt; the same or next business day, depending on kitting complexity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Branded packaging ROI — why unboxing drives repeat D2C orders</title>
-      <link>http://localhost:1313/insights/branded-packaging-roi/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/branded-packaging-roi/</guid>
-      <description>&lt;p&gt;Generic poly mailers signal &amp;ldquo;dropship junk&amp;rdquo; the moment a customer opens the door. &lt;strong&gt;Branded packaging&lt;/strong&gt; is one of the highest-ROI upgrades in cross-border D2C—because it costs pennies per unit but moves repeat rate and UGC.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-premium-kitting-includes&#34;&gt;What premium kitting includes&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-premium-kitting-includes&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Custom mailers and tissue with your palette and logo&lt;/li&gt;&#xA;&lt;li&gt;Thank-you cards and insert offers (referral, review, warranty)&lt;/li&gt;&#xA;&lt;li&gt;Branded stickers and tamper seals&lt;/li&gt;&#xA;&lt;li&gt;Multi-SKU bundles assembled in our central warehouse&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;storage--kitting-in-one-account&#34;&gt;Storage + kitting in one account&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#storage--kitting-in-one-account&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Tendlyn holds inventory securely, then &lt;strong&gt;picks, kits, and ships&lt;/strong&gt; when your storefront fires an order—no separate 3PL handoff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pre-shipment inspection 101 — stop bad reviews before they ship</title>
-      <link>http://localhost:1313/insights/pre-shipment-inspection-guide/</link>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/pre-shipment-inspection-guide/</guid>
-      <description>&lt;p&gt;Shipping blind is the fastest way to turn a five-star brand into a chargeback machine. &lt;strong&gt;Pre-shipment inspection (PSI)&lt;/strong&gt; is your last defensible gate before goods leave China.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-psi-workflow&#34;&gt;The PSI workflow&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#the-psi-workflow&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;AQL sampling&lt;/strong&gt; — statistical or 100% inspection based on SKU risk and order value.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Functional testing&lt;/strong&gt; — power-on, dimension checks, and packaging drop tests where relevant.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cosmetic grading&lt;/strong&gt; — surface defects sorted against your accept/reject matrix.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HD evidence&lt;/strong&gt; — timestamped photos and video clips tied to carton IDs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hold / release&lt;/strong&gt; — nothing ships until you approve the report in writing.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;defect-sorting-and-rework&#34;&gt;Defect sorting and rework&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#defect-sorting-and-rework&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When issues appear, Tendlyn coordinates &lt;strong&gt;sorting, rework, or partial shipment&lt;/strong&gt;—so you choose whether to absorb delay or protect your review score.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The 12-point factory audit checklist every overseas buyer needs</title>
-      <link>http://localhost:1313/insights/factory-audit-checklist/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/insights/factory-audit-checklist/</guid>
-      <description>&lt;p&gt;Overseas buyers lose months—and sometimes entire product lines—when a &amp;ldquo;factory&amp;rdquo; turns out to be a trading desk or a facility that cannot hit quoted MOQs. Tendlyn&amp;rsquo;s on-site audits follow a &lt;strong&gt;12-point checklist&lt;/strong&gt; before any PO is signed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-verify-on-the-ground&#34;&gt;What we verify on the ground&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-we-verify-on-the-ground&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Business registration&lt;/strong&gt; — legal entity matches export documentation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Production capacity&lt;/strong&gt; — line count, shifts, and realistic throughput vs. your volume.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Equipment inventory&lt;/strong&gt; — machines match the SKU category you are buying.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;QC station&lt;/strong&gt; — incoming, in-process, and outbound checkpoints exist and are staffed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sample room&lt;/strong&gt; — retained units and revision history for traceability.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Export history&lt;/strong&gt; — reference buyers and destination markets, not just screenshots.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certification wall&lt;/strong&gt; — CE, RoHS, ISO, or category-specific certs with valid dates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sub-supplier map&lt;/strong&gt; — who actually makes critical components.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Labor &amp;amp; ethics snapshot&lt;/strong&gt; — basic social compliance signals for brand risk.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Financial stability&lt;/strong&gt; — red flags that predict mid-production ghosting.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Communication layer&lt;/strong&gt; — English-capable engineering contact, not just sales chat.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pilot readiness&lt;/strong&gt; — sample lead time, tooling deposits, and revision policy in writing.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;why-this-matters-for-d2c-brands&#34;&gt;Why this matters for D2C brands&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-this-matters-for-d2c-brands&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When you dropship blind, &lt;strong&gt;you inherit every factory lie&lt;/strong&gt; your supplier never corrected. An independent audit gives you negotiation leverage, realistic lead times, and a paper trail if disputes arise.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tendlyn University · Supply Chain Guides on Tendlyn</title><link>https://www.tendlyn.com/insights/</link><description>Recent content in Tendlyn University · Supply Chain Guides on Tendlyn</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tendlyn.com/insights/index.xml" rel="self" type="application/rss+xml"/><item><title>Packaging design brief — what to send your 3PL before production</title><link>https://www.tendlyn.com/insights/packaging-design-brief/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/packaging-design-brief/</guid><description>&lt;p&gt;A beautiful unboxing mockup in Figma means nothing if the warehouse receives &lt;strong&gt;low-res logos
+and no dielines&lt;/strong&gt;. Here is the minimum &lt;strong&gt;packaging design brief&lt;/strong&gt; Tendlyn needs to kit
+correctly on day one.&lt;/p&gt;
+&lt;h2 id="assets-checklist"&gt;Assets checklist&lt;a class="td-heading-self-link" href="#assets-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Vector logo&lt;/strong&gt; (SVG/AI/PDF)—not a screenshot from your Shopify theme&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mailer/box dielines&lt;/strong&gt; with bleed and panel labels&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color specs&lt;/strong&gt; (Pantone or CMYK) for tissue, tape, and cards&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Insert copy&lt;/strong&gt;—thank-you card, warranty, QR to review page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kitting map&lt;/strong&gt;—which SKU gets which insert in multi-item orders&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="unboxing-sequence"&gt;Unboxing sequence&lt;a class="td-heading-self-link" href="#unboxing-sequence" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Document the &lt;strong&gt;order of operations&lt;/strong&gt;: product wrap → tissue → card → sticker seal. Warehouses
+default to fastest pick path unless you specify brand sequence.&lt;/p&gt;</description></item><item><title>Landed cost math every China buyer should run before signing a PO</title><link>https://www.tendlyn.com/insights/landed-cost-math/</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/landed-cost-math/</guid><description>&lt;p&gt;The factory sent a quote that looks &lt;strong&gt;40% below your current supplier. Before you celebrate,
+run landed cost math&lt;/strong&gt;—or you will discover the gap in QC rework, air freight panic, and
+chargebacks.&lt;/p&gt;
+&lt;h2 id="the-formula-simplified"&gt;The formula (simplified)&lt;a class="td-heading-self-link" href="#the-formula-simplified" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Landed cost per unit ≈&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;(Factory unit price + QC + packaging + inland China logistics + international freight + duties/taxes + defect reserve) ÷ sellable units&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id="line-items-buyers-forget"&gt;Line items buyers forget&lt;a class="td-heading-self-link" href="#line-items-buyers-forget" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Cost bucket&lt;/th&gt;
+ &lt;th&gt;Why it matters&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;MOQ overbuy&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;3,000 units when you sell 200/month ties up cash for 15 months&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;PSI &amp;amp; rework&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Cheap units that fail inspection still cost handling time&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Branded packaging&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Mailers and inserts are marketing—not optional for D2C&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Last-mile speed&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Air freight fixes a late factory but kills margin&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Defect reserve&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Plan 1–3% write-off even with good QC&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="how-tendlyn-uses-this-in-sourcing"&gt;How Tendlyn uses this in sourcing&lt;a class="td-heading-self-link" href="#how-tendlyn-uses-this-in-sourcing" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We quote &lt;strong&gt;delivered-to-warehouse or DDP-style scenarios&lt;/strong&gt; when clients share target markets—so
+you compare suppliers on outcome, not factory FOB alone.&lt;/p&gt;</description></item><item><title>AQL sampling explained for D2C brand owners</title><link>https://www.tendlyn.com/insights/aql-sampling-explained/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/aql-sampling-explained/</guid><description>&lt;p&gt;&lt;strong&gt;Acceptable Quality Limit (AQL)&lt;/strong&gt; is the statistical backbone of most pre-shipment inspections.
+It balances cost and coverage—so you are not paying to inspect every unit on a 10,000-piece order.&lt;/p&gt;
+&lt;h2 id="how-aql-works-in-plain-language"&gt;How AQL works in plain language&lt;a class="td-heading-self-link" href="#how-aql-works-in-plain-language" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Inspectors pull a &lt;strong&gt;random sample&lt;/strong&gt; based on order size and inspect against your defect
+criteria. If defects exceed the agreed limit, the batch fails—full stop.&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Inspection level&lt;/th&gt;
+ &lt;th&gt;Best for&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;General II (default)&lt;/td&gt;
+ &lt;td&gt;Most consumer D2C SKUs&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;General III&lt;/td&gt;
+ &lt;td&gt;Higher-risk electronics or safety items&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;100% inspection&lt;/td&gt;
+ &lt;td&gt;Low volume, high ticket, or new factory relationship&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="setting-your-defect-matrix"&gt;Setting your defect matrix&lt;a class="td-heading-self-link" href="#setting-your-defect-matrix" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Work with your QC partner to define:&lt;/p&gt;</description></item><item><title>How to spot a trading company posing as a factory</title><link>https://www.tendlyn.com/insights/spot-trading-companies/</link><pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/spot-trading-companies/</guid><description>&lt;p&gt;Trading companies are not always malicious— but when they &lt;strong&gt;pose as manufacturers&lt;/strong&gt;, you pay
+middleman margins and lose control of production timing, QC, and export documentation.&lt;/p&gt;
+&lt;h2 id="five-red-flags-before-you-wire-a-deposit"&gt;Five red flags before you wire a deposit&lt;a class="td-heading-self-link" href="#five-red-flags-before-you-wire-a-deposit" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;No production floor in video calls&lt;/strong&gt; — only showrooms or sample rooms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business license category&lt;/strong&gt; does not include manufacturing scope.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MOQ flexibility that is too good&lt;/strong&gt; — real factories have line minimums.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refusal of third-party audit&lt;/strong&gt; or &amp;ldquo;audit not allowed during peak season.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Export history&lt;/strong&gt; that cannot be verified with reference buyers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="what-a-real-audit-reveals"&gt;What a real audit reveals&lt;a class="td-heading-self-link" href="#what-a-real-audit-reveals" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tendlyn auditors photograph &lt;strong&gt;production lines, QC stations, raw material storage, and export
+packing areas&lt;/strong&gt;—not staged sample rooms. We cross-check license data against the entity on the
+contract and the bank account receiving your deposit.&lt;/p&gt;</description></item><item><title>Shopify to China warehouse — a 48-hour fulfillment setup guide</title><link>https://www.tendlyn.com/insights/shopify-fulfillment-setup/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/shopify-fulfillment-setup/</guid><description>&lt;p&gt;Connecting your Shopify or WooCommerce store to a China-based 3PL should not mean CSV exports and WeChat screenshots. Tendlyn&amp;rsquo;s &lt;strong&gt;automated fulfillment stack&lt;/strong&gt; pushes orders, pulls tracking, and keeps customers informed—without manual ops.&lt;/p&gt;
+&lt;h2 id="integration-checklist"&gt;Integration checklist&lt;a class="td-heading-self-link" href="#integration-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Store connection&lt;/strong&gt; — OAuth or webhook for order create/cancel events.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SKU mapping&lt;/strong&gt; — align storefront variants to warehouse bin IDs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventory sync&lt;/strong&gt; — available-to-promise counts feed back to your catalog.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lane rules&lt;/strong&gt; — EU vs. US service levels and carrier selection per SKU weight class.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tracking webhooks&lt;/strong&gt; — carrier events flow back to Shopify/Woo notification emails.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="the-2448-hour-dispatch-target"&gt;The 24–48 hour dispatch target&lt;a class="td-heading-self-link" href="#the-2448-hour-dispatch-target" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Orders received before the daily cut-off enter &lt;strong&gt;pick-pack-ship&lt;/strong&gt; the same or next business day, depending on kitting complexity.&lt;/p&gt;</description></item><item><title>Branded packaging ROI — why unboxing drives repeat D2C orders</title><link>https://www.tendlyn.com/insights/branded-packaging-roi/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/branded-packaging-roi/</guid><description>&lt;p&gt;Generic poly mailers signal &amp;ldquo;dropship junk&amp;rdquo; the moment a customer opens the door. &lt;strong&gt;Branded packaging&lt;/strong&gt; is one of the highest-ROI upgrades in cross-border D2C—because it costs pennies per unit but moves repeat rate and UGC.&lt;/p&gt;
+&lt;h2 id="what-premium-kitting-includes"&gt;What premium kitting includes&lt;a class="td-heading-self-link" href="#what-premium-kitting-includes" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom mailers and tissue with your palette and logo&lt;/li&gt;
+&lt;li&gt;Thank-you cards and insert offers (referral, review, warranty)&lt;/li&gt;
+&lt;li&gt;Branded stickers and tamper seals&lt;/li&gt;
+&lt;li&gt;Multi-SKU bundles assembled in our central warehouse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="storage--kitting-in-one-account"&gt;Storage + kitting in one account&lt;a class="td-heading-self-link" href="#storage--kitting-in-one-account" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tendlyn holds inventory securely, then &lt;strong&gt;picks, kits, and ships&lt;/strong&gt; when your storefront fires an order—no separate 3PL handoff.&lt;/p&gt;</description></item><item><title>Pre-shipment inspection 101 — stop bad reviews before they ship</title><link>https://www.tendlyn.com/insights/pre-shipment-inspection-guide/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/pre-shipment-inspection-guide/</guid><description>&lt;p&gt;Shipping blind is the fastest way to turn a five-star brand into a chargeback machine. &lt;strong&gt;Pre-shipment inspection (PSI)&lt;/strong&gt; is your last defensible gate before goods leave China.&lt;/p&gt;
+&lt;h2 id="the-psi-workflow"&gt;The PSI workflow&lt;a class="td-heading-self-link" href="#the-psi-workflow" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;AQL sampling&lt;/strong&gt; — statistical or 100% inspection based on SKU risk and order value.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Functional testing&lt;/strong&gt; — power-on, dimension checks, and packaging drop tests where relevant.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cosmetic grading&lt;/strong&gt; — surface defects sorted against your accept/reject matrix.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HD evidence&lt;/strong&gt; — timestamped photos and video clips tied to carton IDs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hold / release&lt;/strong&gt; — nothing ships until you approve the report in writing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="defect-sorting-and-rework"&gt;Defect sorting and rework&lt;a class="td-heading-self-link" href="#defect-sorting-and-rework" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When issues appear, Tendlyn coordinates &lt;strong&gt;sorting, rework, or partial shipment&lt;/strong&gt;—so you choose whether to absorb delay or protect your review score.&lt;/p&gt;</description></item><item><title>The 12-point factory audit checklist every overseas buyer needs</title><link>https://www.tendlyn.com/insights/factory-audit-checklist/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/insights/factory-audit-checklist/</guid><description>&lt;p&gt;Overseas buyers lose months—and sometimes entire product lines—when a &amp;ldquo;factory&amp;rdquo; turns out to be a trading desk or a facility that cannot hit quoted MOQs. Tendlyn&amp;rsquo;s on-site audits follow a &lt;strong&gt;12-point checklist&lt;/strong&gt; before any PO is signed.&lt;/p&gt;
+&lt;h2 id="what-we-verify-on-the-ground"&gt;What we verify on the ground&lt;a class="td-heading-self-link" href="#what-we-verify-on-the-ground" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Business registration&lt;/strong&gt; — legal entity matches export documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production capacity&lt;/strong&gt; — line count, shifts, and realistic throughput vs. your volume.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Equipment inventory&lt;/strong&gt; — machines match the SKU category you are buying.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QC station&lt;/strong&gt; — incoming, in-process, and outbound checkpoints exist and are staffed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sample room&lt;/strong&gt; — retained units and revision history for traceability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Export history&lt;/strong&gt; — reference buyers and destination markets, not just screenshots.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certification wall&lt;/strong&gt; — CE, RoHS, ISO, or category-specific certs with valid dates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sub-supplier map&lt;/strong&gt; — who actually makes critical components.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Labor &amp;amp; ethics snapshot&lt;/strong&gt; — basic social compliance signals for brand risk.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial stability&lt;/strong&gt; — red flags that predict mid-production ghosting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication layer&lt;/strong&gt; — English-capable engineering contact, not just sales chat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pilot readiness&lt;/strong&gt; — sample lead time, tooling deposits, and revision policy in writing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="why-this-matters-for-d2c-brands"&gt;Why this matters for D2C brands&lt;a class="td-heading-self-link" href="#why-this-matters-for-d2c-brands" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When you dropship blind, &lt;strong&gt;you inherit every factory lie&lt;/strong&gt; your supplier never corrected. An independent audit gives you negotiation leverage, realistic lead times, and a paper trail if disputes arise.&lt;/p&gt;</description></item></channel></rss>
