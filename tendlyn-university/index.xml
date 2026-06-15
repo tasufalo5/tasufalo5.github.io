@@ -4,7 +4,7 @@ and no dielines&lt;/strong&gt;. Here is the minimum &lt;strong&gt;packaging desi
 correctly on day one.&lt;/p&gt;
 &lt;h2 id="assets-checklist"&gt;Assets checklist&lt;a class="td-heading-self-link" href="#assets-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Vector logo&lt;/strong&gt; (SVG/AI/PDF)—not a screenshot from your Shopify theme&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vector logo&lt;/strong&gt; (SVG/AI/PDF)—not a low-res screenshot from your website or store theme&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mailer/box dielines&lt;/strong&gt; with bleed and panel labels&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Color specs&lt;/strong&gt; (Pantone or CMYK) for tissue, tape, and cards&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Insert copy&lt;/strong&gt;—thank-you card, warranty, QR to review page&lt;/li&gt;
@@ -92,17 +92,17 @@ middleman margins and lose control of production timing, QC, and export document
 &lt;h2 id="what-a-real-audit-reveals"&gt;What a real audit reveals&lt;a class="td-heading-self-link" href="#what-a-real-audit-reveals" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Tendlyn auditors photograph &lt;strong&gt;production lines, QC stations, raw material storage, and export
 packing areas&lt;/strong&gt;—not staged sample rooms. We cross-check license data against the entity on the
-contract and the bank account receiving your deposit.&lt;/p&gt;</description></item><item><title>Shopify to China warehouse — a 48-hour fulfillment setup guide</title><link>https://www.tendlyn.com/tendlyn-university/shopify-fulfillment-setup/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/shopify-fulfillment-setup/</guid><description>&lt;p&gt;Connecting your Shopify or WooCommerce store to a China-based 3PL should not mean CSV exports and WeChat screenshots. Tendlyn&amp;rsquo;s &lt;strong&gt;automated fulfillment stack&lt;/strong&gt; pushes orders, pulls tracking, and keeps customers informed—without manual ops.&lt;/p&gt;
-&lt;h2 id="integration-checklist"&gt;Integration checklist&lt;a class="td-heading-self-link" href="#integration-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+contract and the bank account receiving your deposit.&lt;/p&gt;</description></item><item><title>Global fulfillment onboarding — a 48-hour warehouse-to-doorstep guide</title><link>https://www.tendlyn.com/tendlyn-university/global-fulfillment-onboarding/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/global-fulfillment-onboarding/</guid><description>&lt;p&gt;Branded global dropshipping from a China-based hub should not mean scattered vendors and WeChat screenshots. Tendlyn&amp;rsquo;s &lt;strong&gt;fulfillment stack&lt;/strong&gt; handles order handoff, pick-pack-ship, and tracking—so you focus on growth, not logistics ops.&lt;/p&gt;
+&lt;h2 id="onboarding-checklist"&gt;Onboarding checklist&lt;a class="td-heading-self-link" href="#onboarding-checklist" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Store connection&lt;/strong&gt; — OAuth or webhook for order create/cancel events.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SKU mapping&lt;/strong&gt; — align storefront variants to warehouse bin IDs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Inventory sync&lt;/strong&gt; — available-to-promise counts feed back to your catalog.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SKU mapping&lt;/strong&gt; — align your product catalog to warehouse bin IDs and kitting rules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventory staging&lt;/strong&gt; — QC-cleared stock positioned for dispatch readiness.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lane rules&lt;/strong&gt; — EU vs. US service levels and carrier selection per SKU weight class.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tracking webhooks&lt;/strong&gt; — carrier events flow back to Shopify/Woo notification emails.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Order handoff&lt;/strong&gt; — confirm how orders flow from your team to our warehouse operations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tracking visibility&lt;/strong&gt; — carrier events shared with your team and customer notifications.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="the-2448-hour-dispatch-target"&gt;The 24–48 hour dispatch target&lt;a class="td-heading-self-link" href="#the-2448-hour-dispatch-target" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Orders received before the daily cut-off enter &lt;strong&gt;pick-pack-ship&lt;/strong&gt; the same or next business day, depending on kitting complexity.&lt;/p&gt;</description></item><item><title>Branded packaging ROI — why unboxing drives repeat D2C orders</title><link>https://www.tendlyn.com/tendlyn-university/branded-packaging-roi/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/branded-packaging-roi/</guid><description>&lt;p&gt;Generic poly mailers signal &amp;ldquo;dropship junk&amp;rdquo; the moment a customer opens the door. &lt;strong&gt;Branded packaging&lt;/strong&gt; is one of the highest-ROI upgrades in cross-border D2C—because it costs pennies per unit but moves repeat rate and UGC.&lt;/p&gt;
+&lt;p&gt;Orders confirmed before the daily cut-off enter &lt;strong&gt;pick-pack-ship&lt;/strong&gt; the same or next business day, depending on kitting complexity.&lt;/p&gt;</description></item><item><title>Branded packaging ROI — why unboxing drives repeat D2C orders</title><link>https://www.tendlyn.com/tendlyn-university/branded-packaging-roi/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/branded-packaging-roi/</guid><description>&lt;p&gt;Generic poly mailers signal &amp;ldquo;dropship junk&amp;rdquo; the moment a customer opens the door. &lt;strong&gt;Branded packaging&lt;/strong&gt; is one of the highest-ROI upgrades in cross-border D2C—because it costs pennies per unit but moves repeat rate and UGC.&lt;/p&gt;
 &lt;h2 id="what-premium-kitting-includes"&gt;What premium kitting includes&lt;a class="td-heading-self-link" href="#what-premium-kitting-includes" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Custom mailers and tissue with your palette and logo&lt;/li&gt;
@@ -111,7 +111,7 @@ contract and the bank account receiving your deposit.&lt;/p&gt;</description></i
 &lt;li&gt;Multi-SKU bundles assembled in our central warehouse&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="storage--kitting-in-one-account"&gt;Storage + kitting in one account&lt;a class="td-heading-self-link" href="#storage--kitting-in-one-account" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Tendlyn holds inventory securely, then &lt;strong&gt;picks, kits, and ships&lt;/strong&gt; when your storefront fires an order—no separate 3PL handoff.&lt;/p&gt;</description></item><item><title>Pre-shipment inspection 101 — stop bad reviews before they ship</title><link>https://www.tendlyn.com/tendlyn-university/pre-shipment-inspection-guide/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/pre-shipment-inspection-guide/</guid><description>&lt;p&gt;Shipping blind is the fastest way to turn a five-star brand into a chargeback machine. &lt;strong&gt;Pre-shipment inspection (PSI)&lt;/strong&gt; is your last defensible gate before goods leave China.&lt;/p&gt;
+&lt;p&gt;Tendlyn holds inventory securely, then &lt;strong&gt;picks, kits, and ships&lt;/strong&gt; when your order is confirmed—no separate 3PL handoff.&lt;/p&gt;</description></item><item><title>Pre-shipment inspection 101 — stop bad reviews before they ship</title><link>https://www.tendlyn.com/tendlyn-university/pre-shipment-inspection-guide/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><guid>https://www.tendlyn.com/tendlyn-university/pre-shipment-inspection-guide/</guid><description>&lt;p&gt;Shipping blind is the fastest way to turn a five-star brand into a chargeback machine. &lt;strong&gt;Pre-shipment inspection (PSI)&lt;/strong&gt; is your last defensible gate before goods leave China.&lt;/p&gt;
 &lt;h2 id="the-psi-workflow"&gt;The PSI workflow&lt;a class="td-heading-self-link" href="#the-psi-workflow" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;AQL sampling&lt;/strong&gt; — statistical or 100% inspection based on SKU risk and order value.&lt;/li&gt;
