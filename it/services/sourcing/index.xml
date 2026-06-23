@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Smart Sourcing &amp; Audits on Tendlyn</title><link>https://www.tendlyn.com/it/services/sourcing/</link><description>Recent content in Smart Sourcing &amp; Audits on Tendlyn</description><generator>Hugo</generator><language>it-IT</language><atom:link href="https://www.tendlyn.com/it/services/sourcing/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Sourcing &amp; Audits on Tendlyn</title>
+    <link>http://localhost:1313/it/services/sourcing/</link>
+    <description>Recent content in Smart Sourcing &amp; Audits on Tendlyn</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <atom:link href="http://localhost:1313/it/services/sourcing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
