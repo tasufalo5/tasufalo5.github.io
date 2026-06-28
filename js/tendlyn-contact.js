@@ -96,7 +96,7 @@
 
     var subject = encodeURIComponent(cfg.subject || 'Tendlyn Supply Chain Inquiry');
     var body = encodeURIComponent(lines.join('\n'));
-    var to = cfg.email_to || 'info@axwp.com';
+    var to = cfg.email_to || 'aaron@axwp.com';
     window.location.href = 'mailto:' + to + '?subject=' + subject + '&body=' + body;
 
     showAlert(cfg.success_text || 'Your default email app has been opened.');
