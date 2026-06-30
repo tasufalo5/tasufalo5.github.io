@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Specialty Finishes on Tendlyn</title>
-    <link>http://localhost:1313/it/services/specialty-finishes/</link>
+    <link>https://www.tendlyn.com:1313/it/services/specialty-finishes/</link>
     <description>Recent content in Specialty Finishes on Tendlyn</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <atom:link href="http://localhost:1313/it/services/specialty-finishes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.tendlyn.com:1313/it/services/specialty-finishes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

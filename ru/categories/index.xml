@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tendlyn</title>
-    <link>http://localhost:1313/ru/categories/</link>
+    <link>https://www.tendlyn.com:1313/ru/categories/</link>
     <description>Recent content in Categories on Tendlyn</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.tendlyn.com:1313/ru/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tendlyn University</title>
-      <link>http://localhost:1313/ru/categories/tendlyn-university/</link>
+      <link>https://www.tendlyn.com:1313/ru/categories/tendlyn-university/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/categories/tendlyn-university/</guid>
+      <guid>https://www.tendlyn.com:1313/ru/categories/tendlyn-university/</guid>
       <description></description>
     </item>
   </channel>
