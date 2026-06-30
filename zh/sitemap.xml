@@ -1,2901 +1,767 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/zh/categories/</loc>
-    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/"
-                />
-  </url><url>
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>http://localhost:1313/zh/tendlyn-university/heyday-cookshop-x-tendlyn/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/heyday-cookshop-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/heyday-cookshop-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/heyday-cookshop-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/categories/tendlyn-university/</loc>
-    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/categories/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/tendlyn-university/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/ceres-pizza-x-tendlyn/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/ceres-pizza-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/ceres-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/ceres-pizza-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/headrest-coffee-x-tendlyn/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/headrest-coffee-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/headrest-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/headrest-coffee-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/little-ghost-x-tendlyn/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/little-ghost-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/little-ghost-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/little-ghost-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/little-ghost-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/710accd0/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/710accd0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/710accd0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/710accd0/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/710accd0/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/710accd0/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/710accd0/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/710accd0/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/dark-matter-x-tendlyn/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/dark-matter-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/dark-matter-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/dark-matter-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/dark-matter-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/d7b9309f/</loc>
     <lastmod>2026-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/d7b9309f/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/d7b9309f/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/d7b9309f/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/d7b9309f/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/d7b9309f/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/d7b9309f/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/d7b9309f/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/sugarpine-drive-in-x-tendlyn/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/sugarpine-drive-in-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/sugarpine-drive-in-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/airship-x-tendlyn/</loc>
     <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/airship-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/airship-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/airship-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/airship-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/tokkia-x-tendlyn/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/tokkia-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/tokkia-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/tokkia-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/tokkia-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/homeboy-x-tendlyn/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/homeboy-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/homeboy-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/homeboy-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/homeboy-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/ace-s-pizza-x-tendlyn/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/ace-s-pizza-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/ace-s-pizza-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/ace-s-pizza-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/x-tendlyn/</loc>
     <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/metric-x-tendlyn/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/metric-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/metric-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/metric-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/metric-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/e0285b1f/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/e0285b1f/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/e0285b1f/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/e0285b1f/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/e0285b1f/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/e0285b1f/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/e0285b1f/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/e0285b1f/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/sm-r-x-tendlyn/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/sm-r-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/sm-r-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/sm-r-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/sm-r-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/angel-anchor-x-tendlyn/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/angel-anchor-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/angel-anchor-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/angel-anchor-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/bela-x-tendlyn/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/bela-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/bela-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/bela-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/bela-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/del-sur-bakery-x-tendlyn/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/del-sur-bakery-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/del-sur-bakery-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/del-sur-bakery-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/drizzle-x-tendlyn/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/drizzle-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/drizzle-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/drizzle-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/drizzle-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/good-neighbor-coffee-co-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/fable-cafe-x-tendlyn/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/fable-cafe-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/fable-cafe-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/fable-cafe-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/draft-coffee-x-tendlyn/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/draft-coffee-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/draft-coffee-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/draft-coffee-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/27cc3245/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/27cc3245/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/27cc3245/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/27cc3245/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/27cc3245/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/27cc3245/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/27cc3245/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/27cc3245/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/the-curators-club-x-tendlyn/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/the-curators-club-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/the-curators-club-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/the-curators-club-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/pilot-coffee-roasters-x-tendlyn/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/pilot-coffee-roasters-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/pilot-coffee-roasters-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/savor-beauty-x-tendlyn/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/savor-beauty-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/savor-beauty-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/savor-beauty-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/zandra-stone-x-tendlyn/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/zandra-stone-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/zandra-stone-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/zandra-stone-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/minot-x-tendlyn/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tendlyn-university/minot-x-tendlyn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/minot-x-tendlyn/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/tendlyn-university/minot-x-tendlyn/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/minot-x-tendlyn/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/8d3b656e/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/8d3b656e/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/8d3b656e/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/8d3b656e/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/8d3b656e/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/8d3b656e/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/8d3b656e/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/8d3b656e/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/175038a4/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/175038a4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/175038a4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/175038a4/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/175038a4/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/175038a4/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/175038a4/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/175038a4/" />
   </url><url>
     <loc>http://localhost:1313/zh/tendlyn-university/three-by-zito/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tendlyn-university/three-by-zito/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tendlyn-university/three-by-zito/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tendlyn-university/three-by-zito/"
-                />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/three-by-zito/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/tendlyn-university/three-by-zito/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/tendlyn-university/three-by-zito/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/tendlyn-university/three-by-zito/" />
   </url><url>
     <loc>http://localhost:1313/zh/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/about/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/about/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/about/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/about/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/about/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/about/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/about/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/about/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/about/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/about/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/about/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/about/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/about/" />
   </url><url>
     <loc>http://localhost:1313/zh/case-studies/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/case-studies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/case-studies/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/case-studies/" />
   </url><url>
     <loc>http://localhost:1313/zh/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/contact/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/contact/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/contact/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/contact/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/contact/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/contact/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/contact/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/contact/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/contact/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/contact/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/contact/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/contact/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/contact/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/contact/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/contact/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/hang-tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/hang-tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/hang-tags/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/hang-tags/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/hang-tags/" />
   </url><url>
     <loc>http://localhost:1313/zh/how-it-works/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/how-it-works/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/how-it-works/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/how-it-works/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/how-it-works/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/mailer-boxes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/mailer-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/mailer-boxes/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/mailer-boxes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/mailer-boxes/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/packaging-paper-bags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/packaging-paper-bags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/packaging-paper-bags/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/packaging-paper-bags/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/packaging-paper-bags/" />
   </url><url>
     <loc>http://localhost:1313/zh/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/privacy/"
-                />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/privacy/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/privacy/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/privacy/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/privacy/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/privacy/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/privacy/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/privacy/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/search/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/shipping-boxes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/shipping-boxes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/shipping-boxes/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/shipping-boxes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/shipping-boxes/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/specialty-finishes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/specialty-finishes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/specialty-finishes/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/specialty-finishes/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/specialty-finishes/" />
   </url><url>
     <loc>http://localhost:1313/zh/services/stickers/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/services/stickers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/services/stickers/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/tags/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:1313/ar/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="it" href="http://localhost:1313/it/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="no" href="http://localhost:1313/no/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="da" href="http://localhost:1313/da/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="http://localhost:1313/ro/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="http://localhost:1313/pl/services/stickers/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/services/stickers/" />
   </url>
 </urlset>
