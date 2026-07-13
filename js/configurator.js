@@ -774,7 +774,7 @@
         return;
       }
 
-      var emailTo = CHECKOUT.email_to || 'linktrol@icloud.com';
+      var emailTo = CHECKOUT.email_to || 'aaron@axwp.com';
       var subjectEnc = encodeURIComponent(subject);
       var bodyEnc = encodeURIComponent(bodyText);
       window.location.href =
