@@ -1,40 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Guides on Tendlyn</title>
-    <link>http://localhost:1313/fr/categories/guides/</link>
-    <description>Recent content in Guides on Tendlyn</description>
-    <generator>Hugo</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/categories/guides/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Comment designer des stickers custom pour marques D2C</title>
-      <link>http://localhost:1313/fr/case-studies/how-to-design-custom-stickers-for-d2c/</link>
-      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/case-studies/how-to-design-custom-stickers-for-d2c/</guid>
-      <description>&lt;p&gt;Les stickers semblent simples jusqu’à un écart couleur au réassort ou un adhésif qui lâche. Verrouillez usage, dieline, adhésif et finition avant le devis.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Custom stickers look simple until the first reorder fails color match or the adhesive lifts in transit. This guide covers what brand and ops teams should lock &lt;strong&gt;before&lt;/strong&gt; you request a quote—so proofs move faster and bulk stays consistent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-start-with-the-job-not-the-shape&#34;&gt;1. Start with the job, not the shape&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#1-start-with-the-job-not-the-shape&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Write one sentence for the sticker’s job:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Guide GSM du papier de soie packaging</title>
-      <link>http://localhost:1313/fr/case-studies/tissue-paper-gsm-guide-for-packaging/</link>
-      <pubDate>Sun, 02 Aug 2026 09:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/case-studies/tissue-paper-gsm-guide-for-packaging/</guid>
-      <description>&lt;p&gt;Le GSM est le poids d’un mètre carré de papier. Plus élevé = souvent plus opaque et plus ferme—pas automatiquement “plus premium”.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GSM (grams per square meter) is the weight of one square meter of paper. For tissue, higher GSM usually means &lt;strong&gt;more opacity and a sturdier wrap&lt;/strong&gt;—not automatically “more premium.”&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-gsm-matters-in-unboxing&#34;&gt;Why GSM matters in unboxing&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-gsm-matters-in-unboxing&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Tissue does three jobs at once:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Protect the product&lt;/li&gt;&#xA;&lt;li&gt;Carry brand color / pattern&lt;/li&gt;&#xA;&lt;li&gt;Create the first tactile moment when the box opens&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Wrong GSM shows up as see-through logos, tearing at folds, or a limp wrap that feels cheap next to a premium product.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Comparatif matériaux hang tags</title>
-      <link>http://localhost:1313/fr/case-studies/hang-tag-materials-comparison/</link>
-      <pubDate>Sun, 02 Aug 2026 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/case-studies/hang-tag-materials-comparison/</guid>
-      <description>&lt;p&gt;Le hang tag porte prix, taille et marque au moment clé. Le support doit coller au toucher du produit et au mode d’accroche.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Hang tags are small, but they carry price, size, origin, and brand voice at the exact moment a shopper decides. Material choice should match &lt;strong&gt;fabric hand-feel, print detail, and how the tag will be attached&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-hang-tags-must-survive&#34;&gt;What hang tags must survive&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-hang-tags-must-survive&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sewing / tagging line handling&lt;/li&gt;&#xA;&lt;li&gt;Steam, light moisture, or warehouse dust&lt;/li&gt;&#xA;&lt;li&gt;Customer trying the garment on&lt;/li&gt;&#xA;&lt;li&gt;Photography for PDP (product detail page)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If the tag curls, bleeds, or frays after one try-on, it undermines the product.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Checklist proof-to-bulk packaging</title>
-      <link>http://localhost:1313/fr/case-studies/packaging-proof-to-bulk-checklist/</link>
-      <pubDate>Sun, 02 Aug 2026 08:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/case-studies/packaging-proof-to-bulk-checklist/</guid>
-      <description>&lt;p&gt;La plupart des échecs viennent du process: bulk sans BAT/échantillon signé, ou fichier modifié après validation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Most packaging failures are process failures: bulk starts before anyone signed the real sample, or a “final” file quietly changed after approval. Use this checklist on every new SKU and every major reorder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;stage-a--brief-before-anyone-quotes-tooling&#34;&gt;Stage A — Brief (before anyone quotes tooling)&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#stage-a--brief-before-anyone-quotes-tooling&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Confirm in writing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Product line(s): stickers / tags / tissue / bags / boxes / finishes&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Sizes and quantities (bands OK)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Brand colors (Pantone preferred for logos)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Substrate and finish intent&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Ship-to region and timing window&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If tooling (dies, foil stamps) is needed, it should be explicit in the quote—not a surprise invoice later.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guides on Tendlyn</title><link>https://www.tendlyn.com/fr/categories/guides/</link><description>Recent content in Guides on Tendlyn</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Sun, 02 Aug 2026 10:00:00 +0000</lastBuildDate><atom:link href="https://www.tendlyn.com/fr/categories/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Comment designer des stickers custom pour marques D2C</title><link>https://www.tendlyn.com/fr/case-studies/how-to-design-custom-stickers-for-d2c/</link><pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate><guid>https://www.tendlyn.com/fr/case-studies/how-to-design-custom-stickers-for-d2c/</guid><description>&lt;p&gt;Les stickers semblent simples jusqu’à un écart couleur au réassort ou un adhésif qui lâche. Verrouillez usage, dieline, adhésif et finition avant le devis.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Custom stickers look simple until the first reorder fails color match or the adhesive lifts in transit. This guide covers what brand and ops teams should lock &lt;strong&gt;before&lt;/strong&gt; you request a quote—so proofs move faster and bulk stays consistent.&lt;/p&gt;
+&lt;h2 id="1-start-with-the-job-not-the-shape"&gt;1. Start with the job, not the shape&lt;a class="td-heading-self-link" href="#1-start-with-the-job-not-the-shape" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Write one sentence for the sticker’s job:&lt;/p&gt;</description></item><item><title>Guide GSM du papier de soie packaging</title><link>https://www.tendlyn.com/fr/case-studies/tissue-paper-gsm-guide-for-packaging/</link><pubDate>Sun, 02 Aug 2026 09:30:00 +0000</pubDate><guid>https://www.tendlyn.com/fr/case-studies/tissue-paper-gsm-guide-for-packaging/</guid><description>&lt;p&gt;Le GSM est le poids d’un mètre carré de papier. Plus élevé = souvent plus opaque et plus ferme—pas automatiquement “plus premium”.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;GSM (grams per square meter) is the weight of one square meter of paper. For tissue, higher GSM usually means &lt;strong&gt;more opacity and a sturdier wrap&lt;/strong&gt;—not automatically “more premium.”&lt;/p&gt;
+&lt;h2 id="why-gsm-matters-in-unboxing"&gt;Why GSM matters in unboxing&lt;a class="td-heading-self-link" href="#why-gsm-matters-in-unboxing" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tissue does three jobs at once:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Protect the product&lt;/li&gt;
+&lt;li&gt;Carry brand color / pattern&lt;/li&gt;
+&lt;li&gt;Create the first tactile moment when the box opens&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Wrong GSM shows up as see-through logos, tearing at folds, or a limp wrap that feels cheap next to a premium product.&lt;/p&gt;</description></item><item><title>Comparatif matériaux hang tags</title><link>https://www.tendlyn.com/fr/case-studies/hang-tag-materials-comparison/</link><pubDate>Sun, 02 Aug 2026 09:00:00 +0000</pubDate><guid>https://www.tendlyn.com/fr/case-studies/hang-tag-materials-comparison/</guid><description>&lt;p&gt;Le hang tag porte prix, taille et marque au moment clé. Le support doit coller au toucher du produit et au mode d’accroche.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hang tags are small, but they carry price, size, origin, and brand voice at the exact moment a shopper decides. Material choice should match &lt;strong&gt;fabric hand-feel, print detail, and how the tag will be attached&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="what-hang-tags-must-survive"&gt;What hang tags must survive&lt;a class="td-heading-self-link" href="#what-hang-tags-must-survive" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sewing / tagging line handling&lt;/li&gt;
+&lt;li&gt;Steam, light moisture, or warehouse dust&lt;/li&gt;
+&lt;li&gt;Customer trying the garment on&lt;/li&gt;
+&lt;li&gt;Photography for PDP (product detail page)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the tag curls, bleeds, or frays after one try-on, it undermines the product.&lt;/p&gt;</description></item><item><title>Checklist proof-to-bulk packaging</title><link>https://www.tendlyn.com/fr/case-studies/packaging-proof-to-bulk-checklist/</link><pubDate>Sun, 02 Aug 2026 08:30:00 +0000</pubDate><guid>https://www.tendlyn.com/fr/case-studies/packaging-proof-to-bulk-checklist/</guid><description>&lt;p&gt;La plupart des échecs viennent du process: bulk sans BAT/échantillon signé, ou fichier modifié après validation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Most packaging failures are process failures: bulk starts before anyone signed the real sample, or a “final” file quietly changed after approval. Use this checklist on every new SKU and every major reorder.&lt;/p&gt;
+&lt;h2 id="stage-a--brief-before-anyone-quotes-tooling"&gt;Stage A — Brief (before anyone quotes tooling)&lt;a class="td-heading-self-link" href="#stage-a--brief-before-anyone-quotes-tooling" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Confirm in writing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Product line(s): stickers / tags / tissue / bags / boxes / finishes&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Sizes and quantities (bands OK)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Brand colors (Pantone preferred for logos)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Substrate and finish intent&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Ship-to region and timing window&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If tooling (dies, foil stamps) is needed, it should be explicit in the quote—not a surprise invoice later.&lt;/p&gt;</description></item></channel></rss>
