@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /llms.txt
 Allow: /
 
 # Thin taxonomy / paginated surfaces (also omitted from sitemap)
@@ -9,29 +10,37 @@ Disallow: /*/tags/
 Disallow: /page/
 Disallow: /*/page/
 
-# Generative engines / AI crawlers (GEO)
+# Generative engines / AI crawlers (GEO) — prefer /llms.txt for site facts
 User-agent: GPTBot
+Allow: /llms.txt
 Allow: /
 
 User-agent: ChatGPT-User
+Allow: /llms.txt
 Allow: /
 
 User-agent: Google-Extended
+Allow: /llms.txt
 Allow: /
 
 User-agent: ClaudeBot
+Allow: /llms.txt
 Allow: /
 
 User-agent: Anthropic-AI
+Allow: /llms.txt
 Allow: /
 
 User-agent: PerplexityBot
+Allow: /llms.txt
 Allow: /
 
 User-agent: Applebot-Extended
+Allow: /llms.txt
 Allow: /
 
 User-agent: Bytespider
+Allow: /llms.txt
 Allow: /
 
 Sitemap: https://www.tendlyn.com/sitemap.xml
