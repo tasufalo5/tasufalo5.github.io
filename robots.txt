@@ -1,6 +1,14 @@
 User-agent: *
 Allow: /
 
+# Thin taxonomy / paginated surfaces (also omitted from sitemap)
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /*/categories/
+Disallow: /*/tags/
+Disallow: /page/
+Disallow: /*/page/
+
 # Generative engines / AI crawlers (GEO)
 User-agent: GPTBot
 Allow: /
