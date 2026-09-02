@@ -88,6 +88,10 @@ Homepage FAQ: https://www.tendlyn.com/#faq
 - Home (FR): https://www.tendlyn.com/fr/
 - Home (DE): https://www.tendlyn.com/de/
 - Home (RU): https://www.tendlyn.com/ru/
+- LLM facts (ES): https://www.tendlyn.com/es/llms.txt
+- LLM facts (FR): https://www.tendlyn.com/fr/llms.txt
+- LLM facts (DE): https://www.tendlyn.com/de/llms.txt
+- LLM facts (RU): https://www.tendlyn.com/ru/llms.txt
 - Products: https://www.tendlyn.com/products/
 - How It Works: https://www.tendlyn.com/how-it-works/
 - Tendlyn University (packaging guides): https://www.tendlyn.com/tendlyn-university/

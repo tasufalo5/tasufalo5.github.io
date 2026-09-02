@@ -1,0 +1,14 @@
+# Tendlyn (ES)
+
+> Tendlyn diseña y fabrica packaging DTC a medida para marcas que envían en todo el mundo.
+
+- Inicio: https://www.tendlyn.com/es/
+- Productos: https://www.tendlyn.com/es/products/
+- Cómo trabajamos: https://www.tendlyn.com/es/how-it-works/
+- Tendlyn University: https://www.tendlyn.com/es/tendlyn-university/
+- Casos: https://www.tendlyn.com/es/case-studies/
+- Nosotros: https://www.tendlyn.com/es/about/
+- Presupuesto: https://www.tendlyn.com/es/contact/
+- Ficha para modelos (EN): https://www.tendlyn.com/llms.txt
+
+Entidad: Guangzhou Tendlyn Trading Co., Ltd., fundada en 2009 en Guangzhou. OEM de packaging, no un marketplace de consumo. Muestras y golden sample por escrito antes del tiraje.
