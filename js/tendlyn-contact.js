@@ -122,6 +122,10 @@
       })
       .then(function () {
         form.reset();
+        try {
+          sessionStorage.setItem("tlq_done", "1");
+          localStorage.setItem("tlq_submitted", "1");
+        } catch (_) {}
         showAlert(
           cfg.successText ||
             "Thanks! We'll email you within 24 hours. If you don't see our reply, please check your spam folder.",
